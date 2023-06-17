@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/58e25fbf-151b-471a-bd20-b65352b0471f.svg)](https://wakatime.com/@58e25fbf-151b-471a-bd20-b65352b0471f)
+
+### Bye there 👋
+
 <!--
 **fortune-max/fortune-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
