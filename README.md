@@ -1,14 +1,16 @@
 ### Hi there 👋
 
+Stats since Nov 23, 2022
+
 [![wakatime](https://wakatime.com/badge/user/58e25fbf-151b-471a-bd20-b65352b0471f.svg)](https://wakatime.com/@58e25fbf-151b-471a-bd20-b65352b0471f)
 
-### Bye there 👋
+### Bye there ✌️
 
 <!--
 **fortune-max/fortune-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+✌️
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
