@@ -1,22 +1,13 @@
-### Hi there 👋
+### Hi, I'm Fortune 👋
 
-Stats since Nov 23, 2022
+Senior full-stack engineer in Barcelona, programming since 2014. I build regulated fintech products and the LLM features that businesses actually run on.
 
-[![wakatime](https://wakatime.com/badge/user/58e25fbf-151b-471a-bd20-b65352b0471f.svg)](https://wakatime.com/@58e25fbf-151b-471a-bd20-b65352b0471f)
+**Lately**
+- 🏗️ Proposed, led and built most of a VC/fintech platform's full rewrite: Django 6 · Postgres/pgvector · Vue 3, moved off AWS for ~95% lower infra cost
+- 🤖 An LLM reporting pipeline that drafts ~95% of portfolio reports, hybrid RAG over 170k+ documents, and an MCP server the whole business team uses with Claude
+- 🎮 [CloudStation3](https://github.com/fortune-max/cloudstation3): PS3 games in the browser. Emulator → shared memory → NVENC H.264 → WebRTC (my MEng capstone)
+- 🦞 [ThinClaw](https://github.com/fortune-max/thinclaw-showcase): a multi-user agentic AI assistant with sandboxed per-user code execution (closed source, overview linked)
 
-### Bye there ✌️
+**Stack:** Python · TypeScript · SQL · C++ — Django, FastAPI, Vue/Nuxt, React — Postgres, Redis, Celery — Docker, Railway, Vercel, AWS
 
-<!--
-**fortune-max/fortune-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-✌️
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Elsewhere:** [fme.dev](https://fme.dev) · [LinkedIn](https://www.linkedin.com/in/fortune-max-eguakun/) · TON compiler bug bounty · Google HashCode · IEEExtreme
